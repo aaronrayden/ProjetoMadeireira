@@ -116,3 +116,5 @@ total = (choice * woods[0]) - ((choice * woods[0]) * woods[1]) + transport
 
 print(f'O total do pedido é de R${total}, sendo R${choice * woods[0]} o valor bruto,')
 print(f'R$ {(choice * woods[0]) * woods[1]} o total descontado, e um acréscimo de R$ {transport} de frete.')
+
+# Última alteração: 23:19 - 17/10/2024
